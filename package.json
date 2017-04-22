@@ -10,10 +10,13 @@
     "supertest-as-promised": "^4.0.0"
   },
   "dependencies": {
+    "bootstrap": "3",
     "classnames": "^2.2.5",
     "express": "^4.14.0",
     "morgan": "^1.7.0",
     "react": "^15.2.1",
+    "react-apollo": "^1.1.0",
+    "react-bootstrap": "^0.30.10",
     "react-dom": "^15.2.1",
     "react-router": "^2.6.1"
   },
